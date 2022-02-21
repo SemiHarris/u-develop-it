@@ -1,0 +1,25 @@
+{
+  "name": "u-develop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SemiHarris/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SemiHarris/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/SemiHarris/u-develop-it#readme",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "mysql2": "^2.3.3"
+  }
+}
